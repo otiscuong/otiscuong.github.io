@@ -2,7 +2,7 @@ const CONFIG = {
     InTitle: 'Vậy sáng mai tớ chở cậu đi ăn sáng nhé^^ ',
     FBLink:'http://m.me/cuongtran5656 ',
     ConfirmBtnText: 'Yes',
-    PopTitle: 'hi chào cậu',
+    PopTitle: 'hi chào Bống',
     PopText: 'cậu lại vô trang tớ à ?',
     PopConfim: 'đúng ròi á ' ,
     MessText: 'nhắn tin với tớ nhé hì^^ ',
