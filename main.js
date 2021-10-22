@@ -3,9 +3,9 @@ const CONFIG = {
     FBLink:'http://m.me/cuongtran5656 ',
     ConfirmBtnText: 'Yes',
     PopTitle: 'hi chào Cậu <3',
-    PopText: 'cậu lại vô trang tớ à ?',
+    PopText: 'Tớ là Cường nè ^^',
     PopConfim: 'đúng òi í ' ,
-    MessText: 'nhắn tin với tớ nhé hì^^ ',
+    MessText: 'nhắn tin với tớ nhé :3',
    }
    
    $("#btnYes, #btnNo, #ED").hide();
