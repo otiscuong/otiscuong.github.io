@@ -1,10 +1,10 @@
 const CONFIG = {
-    InTitle: 'Vậy sáng mai tớ chở cậu đi ăn sáng nhé^^ ',
+    InTitle: 'Tớ cũng thích cậu ',
     FBLink:'http://m.me/cuongtran5656 ',
     ConfirmBtnText: 'Yes',
-    PopTitle: 'hi chào Bống',
+    PopTitle: 'hi chào Cậu <3',
     PopText: 'cậu lại vô trang tớ à ?',
-    PopConfim: 'đúng ròi á ' ,
+    PopConfim: 'đúng òi í ' ,
     MessText: 'nhắn tin với tớ nhé hì^^ ',
    }
    
