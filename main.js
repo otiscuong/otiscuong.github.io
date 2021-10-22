@@ -1,7 +1,7 @@
 const CONFIG = {
     InTitle: 'Tớ cũng thích cậu ',
     FBLink:'http://m.me/cuongtran5656 ',
-    ConfirmBtnText: 'Yes',
+    ConfirmBtnText: 'Oki',
     PopTitle: 'hi chào Cậu <3',
     PopText: 'Tớ là Cường nè ^^',
     PopConfim: 'đúng òi í ' ,
