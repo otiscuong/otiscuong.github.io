@@ -2,15 +2,15 @@
     position: absolute;
     left: 400px;
     top: 450px;
-    background-color: #8a1616;
+    background-color: #a51515;
     font-size: 20px;
 }
 
 #btnNo {
     position: absolute;
-    left: 600px;
+    left: 800px;
     top: 450px;
-    background-color: #861616;
+    background-color: #a11515;
     font-size: 20px;
 }
 
