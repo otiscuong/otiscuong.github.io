@@ -43,7 +43,7 @@ input {
   left: 0;
   z-index: 0;
   background-repeat: no-repeat;
-  background-image: url(img/bg.jpg); 
+  background-image: url(img/bg.jpeg); 
   background-size: cover;
   background-position: 50%;
   display: block;
