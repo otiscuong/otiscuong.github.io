@@ -3,7 +3,7 @@ const CONFIG = {
     FBLink:'http://m.me/cuongtran5656 ',
     ConfirmBtnText: 'Oki',
     PopTitle: 'hi chào Cậu <3',
-    PopText: 'Tớ là Cường nè ^^',
+    PopText: 'Tớ là My nè ^^',
     PopConfim: 'đúng òi í ' ,
     MessText: 'nhắn tin với tớ nhé :3',
    }
