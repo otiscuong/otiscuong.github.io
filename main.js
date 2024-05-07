@@ -5,7 +5,7 @@ const CONFIG = {
     PopTitle: 'hi chào Cậu <3',
     PopText: 'Tớ là Cường nè ^^',
     PopConfim: 'Đúng òi nè ' ,
-    MessText: 'nhắn tin với Cường nhé :3',
+    MessText: 'nhắn tin với tớ nhé :3',
    }
    
    $("#btnYes, #btnNo, #ED").hide();
