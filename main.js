@@ -4,7 +4,7 @@ const CONFIG = {
     ConfirmBtnText: 'Oki',
     PopTitle: 'hi chào Cậu <3',
     PopText: 'Tớ là Cường nè ^^',
-    PopConfim: 'đúng òi í ' ,
+    PopConfim: 'Đúng òi nè ' ,
     MessText: 'nhắn tin với Cường nhé :3',
    }
    
