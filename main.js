@@ -52,7 +52,7 @@ const CONFIG = {
        var y = Math.floor(Math.random() * window.innerHeight);
        document.getElementById("btnNo").style.left = x + "px";
        document.getElementById("btnNo").style.top = y + "px";
-       document.getElementById("btnNo").style.transition = "0.3s";
+       document.getElementById("btnNo").style.transition = "0.2s";
    }
    
     function play() {
